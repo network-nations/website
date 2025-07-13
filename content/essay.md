@@ -3,7 +3,13 @@ title: "Network Nations"
 title_span: "Nations"
 subtitle: "Reclaiming Sovereignty in the Digital Age"
 authors: "Primavera de Filippi & Felix Beer"
-pdf_path: "path/to/your/document.pdf"
+chapter-titles:
+  - "Intro"
+  - "Sovereignty"
+  - "Claims"
+  - "Nations"
+  - "Conclusion"
+  - "References"
 ---
 
 ## 1. Introduction
