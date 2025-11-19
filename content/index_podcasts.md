@@ -1,0 +1,2 @@
+- src: "https://open.spotify.com/embed/episode/6zOcNq2ztMvu2ZvSspCqsr?utm_source=generator&theme=0"
+- src: "https://open.spotify.com/embed/episode/6k5LRZnMSp5i7KxwcbZXeI?utm_source=generator&theme=0"
