@@ -24,7 +24,7 @@ visible: false
       url: "https://linkedin.com/in/example"
       
       
-- - name: "Primavera De Filippi"
+  -  name: "Primavera De Filippi"
   role: "Steward"
   bio: "World leading legal scholar, artist and governance pioneer whose work explores how decentralized technologies can enable new forms of sovereignty, citizenship, and collective organization."
   image: "<img width="1444" height="920" alt="image" src="https://github.com/user-attachments/assets/8b99f6dd-75c6-48ae-a178-3aaaa2434011" />
