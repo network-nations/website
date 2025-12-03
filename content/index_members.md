@@ -36,7 +36,7 @@ visible: false
   -  name: "Patricia Parkinson"
   role: "Steward"
   bio: "Co-founder of OpenCivics and a participatory futurist, designs sociotechnical systems and immersive experiences that empower communities to co-create regenerative futures."
-  image: "<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/21d32dae-c490-46c1-ae9e-b00dde6ab1ed" />
+  image: "https://github.com/user-attachments/assets/21d32dae-c490-46c1-ae9e-b00dde6ab1ed"
 "
   links:
     - platform: "LinkedIn"
