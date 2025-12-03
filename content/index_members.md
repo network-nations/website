@@ -67,7 +67,7 @@ platform: "Website"
        - name: "Lovisa Björna"
   role: "Steward"
   bio: " Web3 educator and strategic communicator at BlockchainGov, connecting technology, classic institutions, and collective imagination. "
-  image: "members/another-person.jpg"
+  image: "https://github.com/user-attachments/assets/d9c4605b-0d52-405b-9088-565b951354b8"
   links:
     - platform: "LinkedIn"
       url: "[(https://www.linkedin.com/in/lovisa-bj%C3%B6rna-02b930135/)]"
