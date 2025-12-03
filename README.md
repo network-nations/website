@@ -1,4 +1,4 @@
-# Network Nations - Content Website
+# Network Nations - Website Content 
 
 Modify the content of the website https://networknations.network by submitting Pull Requests to the markdown (*.md) files in the `content` folder. 
 
