@@ -76,7 +76,7 @@ platform: "Website"
     - name: "Stefan Morales"
   role: "Steward"
   bio: "Founder of Working Together Consulting and an Associate at Greaterthan, specializing in organizational development and social design to help leaders and projects build a regenerative future.
-  image: "<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/97b6042d-2893-42df-af6b-9cae84e11b1a" />
+  image: "https://github.com/user-attachments/assets/97b6042d-2893-42df-af6b-9cae84e11b1a"
 "links:
     - platform: "LinkedIn"
       url: "[https://www.linkedin.com/in/stefan-morales/] "
