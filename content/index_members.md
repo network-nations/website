@@ -58,7 +58,7 @@ platform: "Website"
 - name: "Felix Beer"
   role: "Steward"
   bio: "Harvard MPA Candidate, James N. Snitzler and DAAD Fellow, and researcher designing governance innovations at the nexus of technology and democracy to reimagine institutions for the network age."
-  image: " <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/7088d2d7-bc9d-40fa-ba46-99923e11f0c6" />
+  image: "https://github.com/user-attachments/assets/7088d2d7-bc9d-40fa-ba46-99923e11f0c6"
 "
   links:
     - platform: "LinkedIn"
