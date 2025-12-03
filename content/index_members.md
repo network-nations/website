@@ -47,7 +47,7 @@ visible: false
       - name: "Apolinário Passos(Poli)"
   role: "Steward"
   bio: "AI Artist and ML Art Engineer, researcher on exploring model's latent space beyond text prompts, builds bespoke new interfaces for ai, used by millions of people ****"
-  image: "<img width="396" height="396" alt="image" src="https://github.com/user-attachments/assets/47be511a-9348-4b2e-857e-9e42f0f106c6" />
+  image: "https://github.com/user-attachments/assets/47be511a-9348-4b2e-857e-9e42f0f106c6"
 "
   links:
     - platform: "LinkedIn"
