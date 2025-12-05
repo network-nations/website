@@ -25,7 +25,7 @@ title: "Papers"
   url: "https://globalgovernanceprogramme.eui.eu/project/new-network-sovereignties-the-rise-of-non-territorial-states/functional-local-network-sovereignties/"
  - title: "Coordi-nations: A New Institutional Structure for Global Cooperation"
   authors: "Jessy Kate Schingler"
-  url: " https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa
+  url: "https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa"
  - title: "Decentralized Web3 Reshaping Internet Governance: Towards the Emergence of New Forms of Nation-Statehood?"
   authors: "Igor Calzada "
   url: "(https://www.mdpi.com/1999-5903/16/10/361#B11-futureinternet-16-00361)
