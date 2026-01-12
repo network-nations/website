@@ -22,3 +22,7 @@ embed_url: "https://open.spotify.com/embed/episode/6k5LRZnMSp5i7KxwcbZXeI?utm_so
   url: "https://open.spotify.com/episode/4yFpRRwMrAc30QpzIw4hft"
 - title: "Ep 9: A New Political Landscape in the Digital Age with Nick Srnicek & Sofia Cossar"
   url: "https://open.spotify.com/episode/24FbJIttyUXVudtMzr1wUM"
+- title: "Ep 10: Burning Man: Seeding a Network Nation
+  url:https://open.spotify.com/episode/5z2ffr6Ifh5rYoL9U4wT9e?si=8779a86996a94f21
+  - title: "Ep 11: Let a Thousand Societies Bloom with Vitalik Buterin"
+  -  url: https://open.spotify.com/episode/5FFTmdn7pj6GFknnfODVcF?si=29c96e011271429f
